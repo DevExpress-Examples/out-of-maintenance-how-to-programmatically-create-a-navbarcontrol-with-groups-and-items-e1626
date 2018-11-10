@@ -1,4 +1,4 @@
-﻿<Window x:Class="CreateNavBarControlViaCode.Window1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Title="Window1" Height="250" Width="250">
+<Window x:Class="CreateNavBarControlViaCode.Window1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Title="Window1" Height="250" Width="250">
     <DockPanel x:Name="dockPanel" Margin="10">
         
     </DockPanel>
