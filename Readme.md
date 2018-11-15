@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Window1.xaml](./CS/CreateNavBarControlViaCode/Window1.xaml) (VB: [Window1.xaml.vb](./VB/CreateNavBarControlViaCode/Window1.xaml.vb))
+* [Window1.xaml.cs](./CS/CreateNavBarControlViaCode/Window1.xaml.cs) (VB: [Window1.xaml.vb](./VB/CreateNavBarControlViaCode/Window1.xaml.vb))
+<!-- default file list end -->
 # How to programmatically create a NavBarControl with groups and items
 
 
