@@ -1,5 +1,4 @@
-﻿Imports Microsoft.VisualBasic
-Imports System
+﻿Imports System
 Imports System.Collections.Generic
 Imports System.Linq
 Imports System.Text
@@ -20,6 +19,7 @@ Namespace CreateNavBarControlViaCode
 	''' </summary>
 	Partial Public Class Window1
 		Inherits Window
+
 		Public Sub New()
 			InitializeComponent()
 			CreateNavBarControl()
